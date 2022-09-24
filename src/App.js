@@ -6,7 +6,6 @@ import Dashboard from "./Components/Dashboard";
 import Buttons from "./Components/Button";
 import Cards from "./Components/Cards";
 import Tables from "./Components/Table";
-
 import "./css/sb-admin-2.min.css";
 
 
